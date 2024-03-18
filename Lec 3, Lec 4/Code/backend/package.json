@@ -1,21 +1,17 @@
 {
-  "name": "chaibackend",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "Basic App",
+  "description": "basic backend",
   "main": "index.js",
   "type":"module",
   "scripts": {
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "node",
-    "chai"
-  ],
-  "author": "Ayush Shrivastav",
+  "author": "Ayush",
   "license": "ISC",
   "dependencies": {
-    "dotenv": "^16.3.1",
+    "dotenv": "^16.3.2",
     "express": "^4.18.2"
   }
 }
